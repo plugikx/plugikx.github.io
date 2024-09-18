@@ -2,255 +2,255 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/event/example/</loc>
+    <loc>https://plugikx.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/event/example/"
+                href="https://plugikx.github.io/ru/event/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/event/example/"
+                href="https://plugikx.github.io/event/example/"
                 />
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>https://plugikx.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/event/"
+                href="https://plugikx.github.io/ru/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/event/"
+                href="https://plugikx.github.io/event/"
                 />
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://plugikx.github.io/post/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/"
+                href="https://plugikx.github.io/ru/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/"
+                href="https://plugikx.github.io/post/"
                 />
   </url><url>
-    <loc>https://example.com/tags/academic/</loc>
+    <loc>https://plugikx.github.io/tags/academic/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/academic/"
+                href="https://plugikx.github.io/ru/tags/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/academic/"
+                href="https://plugikx.github.io/tags/academic/"
                 />
   </url><url>
-    <loc>https://example.com/post/summary3/</loc>
+    <loc>https://plugikx.github.io/post/summary3/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/summary3/"
+                href="https://plugikx.github.io/ru/post/summary3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/summary3/"
+                href="https://plugikx.github.io/post/summary3/"
                 />
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://plugikx.github.io/tags/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/"
+                href="https://plugikx.github.io/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/"
+                href="https://plugikx.github.io/tags/"
                 />
   </url><url>
-    <loc>https://example.com/post/summary2/</loc>
+    <loc>https://plugikx.github.io/post/summary2/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/summary2/"
+                href="https://plugikx.github.io/ru/post/summary2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/summary2/"
+                href="https://plugikx.github.io/post/summary2/"
                 />
   </url><url>
-    <loc>https://example.com/post/123/</loc>
+    <loc>https://plugikx.github.io/post/123/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/123/"
+                href="https://plugikx.github.io/ru/post/123/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/123/"
+                href="https://plugikx.github.io/post/123/"
                 />
   </url><url>
-    <loc>https://example.com/post/summary1/</loc>
+    <loc>https://plugikx.github.io/post/summary1/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/summary1/"
+                href="https://plugikx.github.io/ru/post/summary1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/summary1/"
+                href="https://plugikx.github.io/post/summary1/"
                 />
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>https://plugikx.github.io/publication/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication/"
+                href="https://plugikx.github.io/ru/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/"
+                href="https://plugikx.github.io/publication/"
                 />
   </url><url>
-    <loc>https://example.com/publication/quantum-comp/</loc>
+    <loc>https://plugikx.github.io/publication/quantum-comp/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication/quantum-comp/"
+                href="https://plugikx.github.io/ru/publication/quantum-comp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/quantum-comp/"
+                href="https://plugikx.github.io/publication/quantum-comp/"
                 />
   </url><url>
-    <loc>https://example.com/publication/ai-medicine/</loc>
+    <loc>https://plugikx.github.io/publication/ai-medicine/</loc>
     <lastmod>2024-08-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication/ai-medicine/"
+                href="https://plugikx.github.io/ru/publication/ai-medicine/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/ai-medicine/"
+                href="https://plugikx.github.io/publication/ai-medicine/"
                 />
   </url><url>
-    <loc>https://example.com/publication/big-data/</loc>
+    <loc>https://plugikx.github.io/publication/big-data/</loc>
     <lastmod>2024-08-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication/big-data/"
+                href="https://plugikx.github.io/ru/publication/big-data/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/big-data/"
+                href="https://plugikx.github.io/publication/big-data/"
                 />
   </url><url>
-    <loc>https://example.com/publication/cyber-sec/</loc>
+    <loc>https://plugikx.github.io/publication/cyber-sec/</loc>
     <lastmod>2024-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication/cyber-sec/"
+                href="https://plugikx.github.io/ru/publication/cyber-sec/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/cyber-sec/"
+                href="https://plugikx.github.io/publication/cyber-sec/"
                 />
   </url><url>
-    <loc>https://example.com/publication/neuro-net/</loc>
+    <loc>https://plugikx.github.io/publication/neuro-net/</loc>
     <lastmod>2024-08-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication/neuro-net/"
+                href="https://plugikx.github.io/ru/publication/neuro-net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/neuro-net/"
+                href="https://plugikx.github.io/publication/neuro-net/"
                 />
   </url><url>
-    <loc>https://example.com/experience/</loc>
+    <loc>https://plugikx.github.io/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/experience/"
+                href="https://plugikx.github.io/ru/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/experience/"
+                href="https://plugikx.github.io/experience/"
                 />
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://plugikx.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/"
+                href="https://plugikx.github.io/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/"
+                href="https://plugikx.github.io/"
                 />
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>https://plugikx.github.io/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication_types/"
+                href="https://plugikx.github.io/ru/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication_types/"
+                href="https://plugikx.github.io/publication_types/"
                 />
   </url>
 </urlset>
