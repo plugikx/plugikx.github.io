@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/en/post/</link>
+      <atom:link href="http://localhost:1313/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Academic CV Theme</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Hugo Academic CV Theme</title>
+      <link>http://localhost:1313/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Post on classes from September 5th to 7th</title>
+      <link>http://localhost:1313/en/post/summary3/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/summary3/</guid>
+      <description>&lt;h2 id=&#34;what-happened-this-week&#34;&gt;What happened this week&lt;/h2&gt;
+&lt;p&gt;From September 5 to 7, I also attended lectures on probability theory and mathematical statistics in preparation for the end-of-semester exams.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post on classes from September 3rd to 4th</title>
+      <link>http://localhost:1313/en/post/summary2/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/summary2/</guid>
+      <description>&lt;h2 id=&#34;what-happened-this-week&#34;&gt;What happened this week&lt;/h2&gt;
+&lt;p&gt;On September 3 and 4, I helped a classmate write an essay on history. I studied the principle of artificial intelligence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>11 сентября пост</title>
+      <link>http://localhost:1313/en/post/123/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/123/</guid>
+      <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;11 сентября я пришёл на пересдачу по операционным системам&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post on classes from September 1st to September 3rd</title>
+      <link>http://localhost:1313/en/post/summary1/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/summary1/</guid>
+      <description>&lt;h2 id=&#34;what-happened-this-week&#34;&gt;What happened this week&lt;/h2&gt;
+&lt;p&gt;I was at work from 1 to 3.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
